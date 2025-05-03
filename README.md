@@ -32,8 +32,8 @@ O aplicativo é indicado para:
 
 ## Equipe do projeto
 
-Cristiano Ricardo Borges
-Fabiola Bernardes Boldrin
-Gesika Santiago da Silva
-Jamila Costa
-Rafael Sangiorgio Muniz
+Cristiano Ricardo Borges  
+Fabiola Bernardes Boldrin  
+Gesika Santiago da Silva  
+Jamila Costa  
+Rafael Sangiorgio Muniz  
