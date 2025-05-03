@@ -29,6 +29,7 @@ O aplicativo é indicado para:
 
 - **Linguagem:** Dart  
 - **Framework:** Flutter
+- **Arquitetura:** MVC (Model-View-Controller)
 
 ## Equipe do projeto
 
