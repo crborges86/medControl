@@ -33,11 +33,11 @@ O aplicativo é indicado para:
 
 ## Equipe do projeto
 
-Cristiano Ricardo Borges - Responsável pela programação da aplicação
-Fabiola Bernardes Boldrin - Responsável pela produção da landing page do projeto
-Gesika Santiago da Silva - Responsável pela revisão do projeto
-Jamila Costa - Responsável pela estrutura do Banco de Dados e DER
-Rafael Sangiorgio Muniz - Responsável pela produção do material de apresentação da aplicação
+Cristiano Ricardo Borges - Responsável pela programação da aplicação  
+Fabiola Bernardes Boldrin - Responsável pela produção da landing page do projeto  
+Gesika Santiago da Silva - Responsável pela revisão do projeto  
+Jamila Costa - Responsável pela estrutura do Banco de Dados e DER  
+Rafael Sangiorgio Muniz - Responsável pela produção do material de apresentação da aplicação  
 
 ## Landing Page do projeto
 
