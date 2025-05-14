@@ -33,8 +33,12 @@ O aplicativo é indicado para:
 
 ## Equipe do projeto
 
-Cristiano Ricardo Borges  
-Fabiola Bernardes Boldrin  
-Gesika Santiago da Silva  
-Jamila Costa  
-Rafael Sangiorgio Muniz  
+Cristiano Ricardo Borges - Responsável pela programação da aplicação
+Fabiola Bernardes Boldrin - Responsável pela produção da landing page do projeto
+Gesika Santiago da Silva - Responsável pela revisão do projeto
+Jamila Costa - Responsável pela estrutura do Banco de Dados e DER
+Rafael Sangiorgio Muniz - Responsável pela produção do material de apresentação da aplicação
+
+## Landing Page do projeto
+
+A Landing Page do projeto pode ser acessada pelo link: https://fabiboldrin.github.io/medcontrol-landing/
