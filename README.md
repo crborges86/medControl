@@ -31,6 +31,19 @@ O aplicativo é indicado para:
 - **Framework:** Flutter
 - **Arquitetura:** MVC (Model-View-Controller) - Disponível na pasta lib
 
+## Landing Page do projeto
+
+A Landing Page do projeto pode ser acessada pelo link: https://fabiboldrin.github.io/medcontrol-landing/
+
+## Vídeo demonstrativo do projeto
+  
+Demonstração do aplicativo em funcionamento (clique na imagem para assistir no YouTube).  
+
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/5DTXXEPuK8E/hqdefault.jpg)](https://www.youtube.com/watch?v=5DTXXEPuK8E)
+  
+Também pode ser acessado pelo link: https://www.youtube.com/watch?v=5DTXXEPuK8E=  
+
 ## Equipe do projeto
 
 Cristiano Ricardo Borges - Responsável pela programação da aplicação  
@@ -38,11 +51,3 @@ Fabiola Bernardes Boldrin - Responsável pela produção da landing page do proj
 Gesika Santiago da Silva - Responsável pela revisão do projeto  
 Jamila Costa - Responsável pela estrutura do Banco de Dados e DER  
 Rafael Sangiorgio Muniz - Responsável pela produção do material de apresentação da aplicação  
-
-## Landing Page do projeto
-
-A Landing Page do projeto pode ser acessada pelo link: https://fabiboldrin.github.io/medcontrol-landing/
-
-## Vídeo demonstrativo do projeto
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=5DTXXEPuK8E))
-O vídeo de demonstração projeto pode ser acessado pelo link: https://www.youtube.com/watch?v=5DTXXEPuK8E
