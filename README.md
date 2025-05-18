@@ -44,4 +44,5 @@ Rafael Sangiorgio Muniz - Responsável pela produção do material de apresenta�
 A Landing Page do projeto pode ser acessada pelo link: https://fabiboldrin.github.io/medcontrol-landing/
 
 ## Vídeo demonstrativo do projeto
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=5DTXXEPuK8E))
 O vídeo de demonstração projeto pode ser acessado pelo link: https://www.youtube.com/watch?v=5DTXXEPuK8E
