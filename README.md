@@ -48,6 +48,6 @@ Também pode ser acessado pelo link: https://www.youtube.com/watch?v=5DTXXEPuK8E
 
 Cristiano Ricardo Borges - Responsável pela programação da aplicação  
 Fabiola Bernardes Boldrin - Responsável pela produção da landing page do projeto  
-Gesika Santiago da Silva - Responsável pela revisão do projeto  
+Gesika Santiago da Silva - Responsável pela criação de personas e jornadas
 Jamila Costa - Responsável pela estrutura do Banco de Dados e DER  
 Rafael Sangiorgio Muniz - Responsável pela produção do material de apresentação da aplicação  
